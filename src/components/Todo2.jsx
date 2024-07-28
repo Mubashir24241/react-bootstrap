@@ -4,7 +4,7 @@ function Todo2() {
         <div className="container ">
             <div className="row kg-row">
 
-                <div className="col-6">
+                <div className="col-6 1">
                     Read Book
                 </div>
 
