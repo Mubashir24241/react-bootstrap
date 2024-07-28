@@ -8,7 +8,7 @@ function Todo2() {
                     Read Book
                 </div>
 
-                <div className="col-4">
+                <div className="col-4 ">
                     15/05/2024
                 </div>
 
